@@ -6,7 +6,7 @@ nav li {
   display: none;
 }
 .fast-section {
-  flex-direction: column-reverse;
+  flex-direction: column;
 }
 .main-image {
   width: 60%;
