@@ -6,7 +6,7 @@ nav li {
   display: none;
 }
 .first-section {
- flex-direction: column-reverse;
+  flex-direction: column-reverse;
  
 
 }
