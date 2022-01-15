@@ -5,7 +5,7 @@
 nav li {
   display: none;
 }
-.main-section {
+.fast-section {
   flex-direction: column-reverse;
 }
 .main-image {
