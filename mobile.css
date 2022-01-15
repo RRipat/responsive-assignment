@@ -5,8 +5,10 @@
 nav li {
   display: none;
 }
-.fast-section {
-  flex-direction: column;
+.first-section {
+ flex-direction: column-reverse;
+ 
+
 }
 .main-image {
   width: 60%;
